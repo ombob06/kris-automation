@@ -8,3 +8,4 @@ allure-results/
 *.jar
 *.war
 *.ear
+.DS_Store
