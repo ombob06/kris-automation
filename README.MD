@@ -26,3 +26,26 @@ It includes a complete CI/CD integration using **GitHub Actions**, and supports 
 ```bash
 git clone git@github.com:Kriangga/kris-automation.git
 cd kris-automation
+```
+
+### 2. Run tests locally
+Make sure you have:
+	•	Java 17+
+	•	Maven
+	•	Chrome installed
+
+```bash
+mvn clean test
+```
+
+### 3. Generate and View Allure Report
+After running the tests:
+```bash
+mvn allure:report
+allure serve target/site/allure-maven-plugin
+```
+
+If you don’t have the Allure CLI installed:
+```bash
+brew install allure
+```
