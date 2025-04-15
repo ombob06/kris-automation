@@ -49,3 +49,8 @@ If you don’t have the Allure CLI installed:
 ```bash
 brew install allure
 ```
+
+## Video Demonstration
+1. [Filing with valid PDF and clicking Save](https://drive.google.com/file/d/1qYSxclsAWujWpQq3vRVZbmXxLd9Z062t/view?usp=sharing)
+2. [Filing with Valid PDF Record and Clicking Save as Draft](https://drive.google.com/file/d/19SDFhWjxvJhtYqT2uG3OEgohEAiNCuz6/view?usp=drive_link)
+3. [Filing an Existing Record to the Same Folder](https://drive.google.com/file/d/1ztOYFCRYMGezlxys7Hi7YVO8o4YXMqbv/view?usp=drive_link)
